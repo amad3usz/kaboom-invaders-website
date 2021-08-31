@@ -6,7 +6,11 @@ The game repo is located [here](https://github.com/amad3usz/kaboom-invaders), wh
 
 ## **About the Site and Game**
 
-The game was built using the KaboomJS library and the website was built with the ReactJS library. 
+The website was built with the ReactJS and Reactstrap libraries. 
+
+This is a game I built for a Mintbean hackathon. I primarily used JavaScript and the KaboomJS library to create it. This game is essentially a Space Invaders remake with a few little extras. The graphics were created by myself, but heavily inspired by others' work (I'm not that creative). The sound effects and music were found on freesound.org, with the exception of the explosion sound effect, which was borrowed from a KaboomJS example. A more detailed explanation, including instructions and a demo video, can be found at the Kaboom Invaders website.
+
+## **Screenshots of the Game**
 
 ## **Deploying the Site**
 
