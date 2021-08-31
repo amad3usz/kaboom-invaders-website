@@ -22,4 +22,9 @@ The game was built using the KaboomJS library and the website was built with the
 
 Go to the game repo ([here](https://github.com/amad3usz/kaboom-invaders)) and follow the instructions there.
 
+## **Developed by Amadeusz Sepko**
+
+[GitHub](https://github.com/amad3usz)
+[LinkedIn](https://www.linkedin.com/in/amad3usz/)
+
 ## **Hope You Enjoy!**
