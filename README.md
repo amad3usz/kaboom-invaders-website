@@ -10,3 +10,16 @@ The game was built using the KaboomJS library and the website was built with the
 
 ## **Deploying the Site**
 
+1. Clone the repo and install dependencies:
+
+```yarn install```
+
+2. Run the app in development mode:
+
+```yarn start```
+
+## **Deploying the Game**
+
+Go to the game repo ([here](https://github.com/amad3usz/kaboom-invaders)) and follow the instructions there.
+
+## **Hope You Enjoy***
