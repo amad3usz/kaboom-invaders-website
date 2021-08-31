@@ -25,6 +25,7 @@ Go to the game repo ([here](https://github.com/amad3usz/kaboom-invaders)) and fo
 ## **Developed by Amadeusz Sepko**
 
 [GitHub](https://github.com/amad3usz)
+
 [LinkedIn](https://www.linkedin.com/in/amad3usz/)
 
 ## **Hope You Enjoy!**
