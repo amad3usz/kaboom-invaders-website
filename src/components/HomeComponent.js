@@ -120,6 +120,16 @@ function Home(props) {
 						reignited an old interest of mine in pixel art, having created all the pixel art for this game and website. I really hope you enjoy playing it. Try beating my high score of
 						3150!
 					</p>
+					<h2 className="text-center">Links to repos:</h2>
+					<p className="text-center">
+						<a className="text-link" href="https://github.com/amad3usz/kaboom-invaders-website">
+							Website
+						</a>
+						<br />
+						<a className="text-link" href="https://github.com/amad3usz/kaboom-invaders">
+							Game
+						</a>
+					</p>
 				</div>
 			</div>
 		</div>
