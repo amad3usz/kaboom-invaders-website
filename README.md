@@ -21,6 +21,12 @@ Instructions
 Gameplay
 ![gameplay](./screenshot-gameplay.png)
 
+## **How to Play**
+
+If you've ever played a shoot 'em up arcade game, you'll find the mechanics of Kaboom Invaders to be very similar (think Space Invaders). To move your rocket around the screen, use the arrow keys. Not only can you move left and right, you can also move up and down, which might prove to be helpful, especially if you want to beat your previous high score. To shoot your laser, you just tap the spacebar. That's basically it for controls.
+
+In order to win the game, you must shoot down all the Kaboom Babies before the timer runs out or before one collides with your rocket. These Kaboom Babies are particularly strong and your laser won't get them in one hit. You must hit a Kaboom Baby 3 times before it finally explodes. Another thing to watch out for are falling stars. They will damage your rocket if you get hit, and once they hit 4 times, your ship is gone! Pay attention to the health bar in the bottom left to see how you're holding up. However, shooting a falling star with your laser beam will give you an extra 100 points, so don't completely avoid them!
+
 ## **Deploying the Site**
 
 1. Clone the repo and install dependencies:
